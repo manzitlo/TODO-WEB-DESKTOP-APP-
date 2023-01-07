@@ -1,5 +1,6 @@
 FILENAME = 'files/subfiles/todos.txt'
 
+
 def get_todos(filepath=FILENAME):  # filepath is parameter
     """
     file = open('files/subfiles/todos.txt', 'r')
